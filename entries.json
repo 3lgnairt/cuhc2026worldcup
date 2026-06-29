@@ -8,7 +8,7 @@
     "2nd": "$50 Varsity Voucher",
     "3rd": "$25 Varsity Voucher"
   },
-  "last_updated": "2026-06-23",
+  "last_updated": "2026-06-29",
   "entries": 24,
   "teams": [
     {
@@ -37,14 +37,14 @@
       "flag": "🇳🇿",
       "group": "G",
       "person": "Mackensie D'Alton",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Iran",
       "flag": "🇮🇷",
       "group": "G",
       "person": "Elly Parker",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Paraguay",
@@ -107,7 +107,7 @@
       "flag": "🇮🇶",
       "group": "I",
       "person": "Gabrielle Bruce",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Colombia",
@@ -121,21 +121,21 @@
       "flag": "🇶🇦",
       "group": "B",
       "person": "Kimberley Mais",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Uruguay",
       "flag": "🇺🇾",
       "group": "H",
       "person": "Emily Voight",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Uzbekistan",
       "flag": "🇺🇿",
       "group": "K",
       "person": "Emily Voight",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Japan",
@@ -163,7 +163,7 @@
       "flag": "🇸🇦",
       "group": "H",
       "person": "Jess Crane",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Mexico",
@@ -205,7 +205,7 @@
       "flag": "🇨🇼",
       "group": "E",
       "person": "Aaron Breen",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Germany",
@@ -233,21 +233,21 @@
       "flag": "🇨🇿",
       "group": "A",
       "person": "Quinlan Paice",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "South Korea",
       "flag": "🇰🇷",
       "group": "A",
       "person": "Aidan Lawrence",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Panama",
       "flag": "🇵🇦",
       "group": "L",
       "person": "Aidan Lawrence",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Portugal",
@@ -261,7 +261,7 @@
       "flag": "🇯🇴",
       "group": "J",
       "person": "Emily Leng",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Turkiye",
@@ -331,7 +331,7 @@
       "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
       "group": "C",
       "person": "Tom Reid",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Ecuador",
