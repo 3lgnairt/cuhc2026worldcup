@@ -8,7 +8,7 @@
     "2nd": "$50 Varsity Voucher",
     "3rd": "$25 Varsity Voucher"
   },
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-07-09",
   "entries": 24,
   "teams": [
     {
@@ -16,7 +16,7 @@
       "flag": "🇺🇸",
       "group": "D",
       "person": "Adam Piggott",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Tunisia",
@@ -30,7 +30,7 @@
       "flag": "🇧🇷",
       "group": "C",
       "person": "Mackensie D'Alton",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "New Zealand",
@@ -51,28 +51,28 @@
       "flag": "🇵🇾",
       "group": "D",
       "person": "Elly Parker",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Australia",
       "flag": "🇦🇺",
       "group": "D",
       "person": "Daryl Andrews",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Ivory Coast",
       "flag": "🇨🇮",
       "group": "E",
       "person": "Daryl Andrews",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Senegal",
       "flag": "🇸🇳",
       "group": "I",
       "person": "David Graham",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Haiti",
@@ -86,14 +86,14 @@
       "flag": "🇭🇷",
       "group": "L",
       "person": "Patrick Clark",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Canada",
       "flag": "🇨🇦",
       "group": "B",
       "person": "Patrick Clark",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Switzerland",
@@ -114,7 +114,7 @@
       "flag": "🇨🇴",
       "group": "K",
       "person": "Kimberley Mais",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Qatar",
@@ -142,7 +142,7 @@
       "flag": "🇯🇵",
       "group": "F",
       "person": "Owen Clark",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Norway",
@@ -170,28 +170,28 @@
       "flag": "🇲🇽",
       "group": "A",
       "person": "Abi Needham",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Bosnia & Herzegovina",
       "flag": "🇧🇦",
       "group": "B",
       "person": "Abi Needham",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Austria",
       "flag": "🇦🇹",
       "group": "J",
       "person": "Tom Lees",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Egypt",
       "flag": "🇪🇬",
       "group": "G",
       "person": "Tom Lees",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Morocco",
@@ -212,14 +212,14 @@
       "flag": "🇩🇪",
       "group": "E",
       "person": "Tom Forrest",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "South Africa",
       "flag": "🇿🇦",
       "group": "A",
       "person": "Tom Forrest",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "France",
@@ -254,7 +254,7 @@
       "flag": "🇵🇹",
       "group": "K",
       "person": "Emily Leng",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Jordan",
@@ -275,21 +275,21 @@
       "flag": "🇨🇩",
       "group": "K",
       "person": "Zoe McGregor",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Netherlands",
       "flag": "🇳🇱",
       "group": "F",
       "person": "Thomas Pavlinovich",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Ghana",
       "flag": "🇬🇭",
       "group": "L",
       "person": "Thomas Pavlinovich",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Belgium",
@@ -303,7 +303,7 @@
       "flag": "🇸🇪",
       "group": "F",
       "person": "Benjamin Mountford",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Argentina",
@@ -317,7 +317,7 @@
       "flag": "🇩🇿",
       "group": "J",
       "person": "Meredith Kelly",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "England",
@@ -338,14 +338,14 @@
       "flag": "🇪🇨",
       "group": "E",
       "person": "Julie Branley",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Cape Verde",
       "flag": "🇨🇻",
       "group": "H",
       "person": "Julie Branley",
-      "status": "active"
+      "status": "eliminated"
     }
   ]
 }
