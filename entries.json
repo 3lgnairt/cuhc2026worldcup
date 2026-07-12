@@ -8,7 +8,7 @@
     "2nd": "$50 Varsity Voucher",
     "3rd": "$25 Varsity Voucher"
   },
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-07-12",
   "entries": 24,
   "teams": [
     {
@@ -100,7 +100,7 @@
       "flag": "🇨🇭",
       "group": "B",
       "person": "Gabrielle Bruce",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Iraq",
@@ -149,7 +149,7 @@
       "flag": "🇳🇴",
       "group": "I",
       "person": "Owen Clark",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Spain",
@@ -296,7 +296,7 @@
       "flag": "🇧🇪",
       "group": "G",
       "person": "Benjamin Mountford",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Sweden",
