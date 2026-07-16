@@ -8,7 +8,7 @@
     "2nd": "$50 Varsity Voucher",
     "3rd": "$25 Varsity Voucher"
   },
-  "last_updated": "2026-07-12",
+  "last_updated": "2026-07-16",
   "entries": 24,
   "teams": [
     {
@@ -226,7 +226,7 @@
       "flag": "🇫🇷",
       "group": "I",
       "person": "Quinlan Paice",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Czechia",
@@ -324,7 +324,7 @@
       "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "group": "L",
       "person": "Tom Reid",
-      "status": "active"
+      "status": "eliminated"
     },
     {
       "team": "Scotland",
